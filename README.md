@@ -37,3 +37,24 @@ Create a ".env" file and paste in the following contents:
 
 ALPHAVANTAGE_API_KEY="_________"
 ```
+
+Obtain an API KEY from sendgrid. To create an account, veryify your accoutn,setup a single sender, and obtain an API Key
+
+
+
+```sh
+
+SENDGRID_API_KEY="_______"
+SENDER_ADDRESS="TODO"
+
+```
+
+
+
+
+SEND AN EXAMPLE EMAIL:
+
+```sh
+python app/email_service.py
+
+```
