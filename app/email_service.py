@@ -37,11 +37,6 @@ def send_email(recipient_address=SENDER_ADDRESS, subject="[Shopping Cart App] Te
         print(err)
 
 
-
-
-
-
-
 my_content = """
 
     <img
