@@ -20,9 +20,9 @@ pip install -r requirements.txt
 # Run the my script
 python app/my_script.py
 
-# run the unemployment report
+# run the unemployment report (usage comand)
 ``` sh
-python app/unemployment.py
+python -m app.unemployment
 ```
 
 
