@@ -17,7 +17,6 @@ API_KEY = os.getenv("ALPHAVANTAGE_API_KEY")
 #breakpoint()
 
 
-
 request_url = f"https://www.alphavantage.co/query?function=UNEMPLOYMENT&apikey={API_KEY}"
 
 response = requests.get(request_url)
