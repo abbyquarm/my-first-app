@@ -12,6 +12,3 @@ flask
 
 pytest
 
-
-# PRODUCTION SERVER NEEDS THIS TO RUN WEB APP
-gunicorn
