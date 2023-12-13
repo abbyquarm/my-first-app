@@ -25,6 +25,14 @@ python app/my_script.py
 python -m app.unemployment
 ```
 
+# run the stocks report (usage comand)
+``` sh
+python -m app.stocks
+```
+
+
+
+
 
 # Run the email service code
 
