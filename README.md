@@ -54,3 +54,17 @@ SEND AN EXAMPLE EMAIL:
 python app/email_service.py
 
 ```
+
+# This is how to run the practice testing file
+``` sh
+python app/my_mod.py
+```
+
+
+## Testing
+
+Run tests:
+
+```sh
+pytest
+```
